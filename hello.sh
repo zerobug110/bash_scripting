@@ -1,2 +1,2 @@
-#bash
+#! bin/bash
 echo "hello bash script";
